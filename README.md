@@ -19,8 +19,9 @@
 <h3 align="center"><b>✍🏻 Certifications</b></h3>
 </br>
 <p align="center">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="814d1122-a6a3-45ed-9483-59f6466207ff" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <a href="https://www.credly.com/badges/814d1122-a6a3-45ed-9483-59f6466207ff/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" height="150" alt="AWS Certified Solutions Architect Associate" />
+  </a>
 </p>
 
 <!--
