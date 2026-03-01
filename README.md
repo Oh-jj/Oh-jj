@@ -1,6 +1,9 @@
-## ☁️☁️
+## 📬 Contact
 
-👋 Hi there
+<p>
+  <a href="mailto:fvjung01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp
+  <a href="https://www.linkedin.com/in/%EC%A0%95%EA%B7%A0-%EC%98%A4-6374483a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+</p>
 
 <h3 align="center"><b>📚 Stacks</b></h3>
 </br>
