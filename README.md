@@ -1,5 +1,4 @@
-
-<h2 align="center">📬 Contact</h2>
+<h3 align="center">📬 Contact</h2>
 </br>
 <p align="center">
   <a href="mailto:fvjung01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a> &nbsp
